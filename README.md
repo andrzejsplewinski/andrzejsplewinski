@@ -47,6 +47,17 @@ Recently I have started to interest of software testing. My goal is to develop t
 
 * Quality Island Sp. z o.o. March - May 2023 - Testing commercial applications from Quality Island customers
 
+# My test case examples
+
+
+# My bug reports
+
+
+# My examples of CSS Selectors and xPaths
+
+
+# My projects
+
 
 
 
