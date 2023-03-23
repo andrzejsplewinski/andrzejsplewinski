@@ -10,7 +10,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 * [Jira](https://www.atlassian.com/pl/software/jira) - project management tool for developers 
 * [Postman](https://www.postman.com) - Testing tool for REST API
 * [Pic Pic](https://picpick.app/pl) - Screen capture software
-* [Github](https://github.com) - is an Internet hosting service for software development and version control using Git
+* [Github](https://github.com) - Internet hosting service for software development and version control using Git
 * [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
 
 # Tech skills
