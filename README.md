@@ -54,13 +54,4 @@ Recently I have started to interest of software testing. My goal is to develop t
 # My bug reports
 
 
-# My examples of CSS Selectors and xPaths
-
-
 # My projects
-
-
-
-
-
-
