@@ -12,7 +12,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 * [Pic Pic](https://picpick.app/pl) - Screen capture software
 * [Github](https://github.com) - Internet hosting service for software development and version control using Git
 * [xPath Finder](https://chrome.google.com/webstore/detail/xpath-finder/ihnknokegkbpmofmafnkoadfjkhlogph) - xPath finding tool
-* [TestLink](https://testlink.org/) - Open Source Test Management
+* [TestLink](https://testlink.org/) - Web based test management and test execution system
 
 # Tech skills
 
