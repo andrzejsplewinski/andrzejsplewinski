@@ -23,3 +23,32 @@ Recently I have started to interest of software testing. My goal is to develop t
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 * Java programming basics
+
+# Certificates
+
+* Bazy danych, język SQL dla testerów
+* Postman, testowanie RestApi
+* Praktyczny kurs testowania oprogramowania
+* Bootcamp Java Developer Plus
+
+# Books
+
+* Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+* Rafał Podraza - Ścieżka testera. Certyfikat ISTQB w pytaniach i odpowiedziach
+* Matthew MacDonald - HTML5. Nieoficjalny podręcznik. Wydanie II
+* Matthew MacDonald - CSS3. Nieoficjalny podręcznik. Wydanie III
+
+# Recommended blogs
+* [Quality Island](https://qualityisland.pl/blog/)
+* [testerzy.pl](https://testerzy.pl/)
+* [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+
+# Internships, practices
+
+* Quality Island Sp. z o.o. March - May 2023 - Testing commercial applications from Quality Island customers
+
+
+
+
+
+
