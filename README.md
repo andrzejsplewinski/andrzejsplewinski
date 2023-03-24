@@ -25,7 +25,6 @@ Recently I have started to interest of software testing. My goal is to develop t
 * Operating Systems:Windows, Linux
 * MySQL - passed skill evaluation on Linkedin
 * HTML - passed skill evaluation on Linkedin
-* Other tools: JIRA, Trello, TestLink,
 
 # Soft skills
 
@@ -55,7 +54,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 
 # Internships, practices
 
-* Quality Island Sp. z o.o. March - May 2023 - Testing commercial applications from Quality Island customers
+* **Quality Island Sp. z o.o. March - May 2023** - Testing commercial applications from Quality Island customers
 
 # My test case examples
 
