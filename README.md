@@ -1,6 +1,6 @@
 # About me
 My name is Andrzej Splewiński. I am a graduate of economic studies. I am currently working in an environmental protection research laboratory. I conduct research on the emission of waste gases into the air, monitor noise, surface and underground waters, monitor electromagnetic fields in the environment.
-Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. 
+Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. I am a software testing enthusiast currently interning at Quality Island company. This is my first practical experience with testing, but I am highly motivated to develop my skills and gain valuable experience. During my internship, I have the opportunity to work under the guidance of experienced testers, learn to use different testing tools, and understand testing processes in practice. I am determined and eager to work, and I am confident that with the experience I gain during my internship, I will be able to continue my career in the software testing industry.
 
 # Tools
 
