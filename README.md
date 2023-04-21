@@ -14,7 +14,15 @@ Recently I have started to interest of software testing. My goal is to develop t
 # Tech skills
 
 * DevTools
+* Manual testing
+* Test automation
 * Software testing
+* RESTful API
+* API Design
+* Postman 
+* JSON
+* Regression testing
+* Microservices
 * Knowledge ISTQB FL
 * Creating scenarios
 * Creating test cases
