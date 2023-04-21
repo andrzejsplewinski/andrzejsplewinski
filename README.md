@@ -36,8 +36,8 @@ Recently I have started to interest of software testing. My goal is to develop t
 # Certificates
 
 * Bazy danych, język SQL dla testerów
-* Postman, testowanie RestApi
-* Praktyczny kurs testowania oprogramowania
+* [Postman, testowanie RestApi](https://verified.sertifier.com/en/verify/51182080075683?ref=email)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-07542955-cf35-47a0-9fb1-731fd2b70425/)
 * Bootcamp Java Developer Plus
 
 # Books
