@@ -50,6 +50,8 @@ Recently I have started to interest of software testing. My goal is to develop t
 * [Bootcamp Java Developer Plus - Kodilla](https://drive.google.com/file/d/1OuimncWOcarnEQi9VJ0u0UGFphhFSNcx/view?usp=sharing)
 * [SQL (Basic) - HackerRank](https://www.hackerrank.com/certificates/07c741b81cd7)
 
+
+
 # Books
 
 * Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
@@ -69,3 +71,4 @@ Recently I have started to interest of software testing. My goal is to develop t
 # My projects
 
 * [Star Troper](https://github.com/Rzesiasty/StarTrooper/tree/master) - An arcade game of destroying enemy space ships
+* [Postman project Book Shop](https://documenter.getpostman.com/view/8567940/2s93kz6kLf)
