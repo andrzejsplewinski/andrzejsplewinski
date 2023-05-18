@@ -49,6 +49,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 * [Praktyczny kurs testowania oprogramowania - Udemy](https://www.udemy.com/certificate/UC-07542955-cf35-47a0-9fb1-731fd2b70425/)
 * [Bootcamp Java Developer Plus - Kodilla](https://drive.google.com/file/d/1OuimncWOcarnEQi9VJ0u0UGFphhFSNcx/view?usp=sharing)
 * [SQL (Basic) - HackerRank](https://www.hackerrank.com/certificates/07c741b81cd7)
+[Andrzej Splewiński certyfikat SQL.pdf](https://github.com/andrzejsplewinski/andrzejsplewinski/files/11507823/Andrzej.Splewinski.certyfikat.SQL.pdf)
 
 
 
