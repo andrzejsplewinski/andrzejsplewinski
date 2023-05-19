@@ -71,4 +71,5 @@ Recently I have started to interest of software testing. My goal is to develop t
 # My projects
 
 * [Star Troper](https://github.com/Rzesiasty/StarTrooper/tree/master) - An arcade game of destroying enemy space ships
-* [Postman project Book Shop](https://documenter.getpostman.com/view/8567940/2s93kz6kLf)
+* [Postman project documentation - Book Shop](https://documenter.getpostman.com/view/8567940/2s93kz6kLf) 
+* [Postman project documentation - Hotel](https://documenter.getpostman.com/view/8567940/2s93m1Z4N8) 
