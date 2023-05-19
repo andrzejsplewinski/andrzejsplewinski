@@ -2,6 +2,7 @@
 My name is Andrzej Splewiński. I am a graduate of economic studies. I am currently working in an environmental protection research laboratory. I conduct research on the emission of waste gases into the air, monitor noise, surface and underground waters, monitor electromagnetic fields in the environment.
 Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. I am a software testing enthusiast currently interning at Quality Island company. This is my first practical experience with testing, but I am highly motivated to develop my skills and gain valuable experience. During my internship, I have the opportunity to work under the guidance of experienced testers, learn to use different testing tools, and understand testing processes in practice. I am determined and eager to work, and I am confident that with the experience I gain during my internship, I will be able to continue my career in the software testing industry.
 
+## I’m looking for my first job as junior manual software tester
 # Tools
 
 * [Jira](https://www.atlassian.com/pl/software/jira) - project management tool for developers 
@@ -44,7 +45,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 
 # Certificates
 
-* [Software tester - comprehensive training](https://verified.sertifier.com/en/verify/36913850720832/?ref=email)
+* [Software tester - comprehensive training - Quality Island](https://verified.sertifier.com/en/verify/36913850720832/?ref=email)
 * [Bazy danych, język SQL dla testerów - Quality Island](https://drive.google.com/file/d/1TvwXQeupH6y19_cWwjFsvoCBzJYNgNhn/view?usp=sharing)
 * [Postman, testowanie RestApi - Quality Island](https://verified.sertifier.com/en/verify/51182080075683?ref=email)
 * [Praktyczny kurs testowania oprogramowania - Udemy](https://www.udemy.com/certificate/UC-07542955-cf35-47a0-9fb1-731fd2b70425/)
