@@ -66,7 +66,7 @@ Recently I have started to interest of software testing. My goal is to develop t
 
 # Internships, practices
 
-* **Quality Island Sp. z o.o. 1 March - 30 June 2023** - Testing commercial applications for Quality Island customers
+* **Quality Island Sp. z o.o.  March - June 2023** - Testing commercial applications for Quality Island customers
 * Performing acceptance tests of the web application
 * Creating test scenarios/test cases
 * Bug reporting
