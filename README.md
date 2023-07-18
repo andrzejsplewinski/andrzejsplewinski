@@ -91,6 +91,8 @@ My name is Andrzej Splewiński. I am a graduate of economic studies. I am a soft
 # Test Scenarios
 [Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx](https://docs.google.com/spreadsheets/d/1GBRaQ5kMaVj8z_k0qSCSrPvHdFiefn3C/edit?usp=sharing&ouid=111012013375605129694&rtpof=true&sd=true)
 
-# Bugs
-[Bug](https://drive.google.com/file/d/12MYPmOrSoAmizcAYSWYF4u2EBfQWXGNv/view?usp=sharing, https://drive.google.com/file/d/16D-JFHlAGAtyF19YOHgVr4XVB8aDD3ZU/view?usp=sharing, https://drive.google.com/file/d/1VZecdxwBROMw1RodbyFSLCwvLAO6SP5Y/view?usp=sharing)
+# Bugs examples
+[Bug 1](https://drive.google.com/file/d/12MYPmOrSoAmizcAYSWYF4u2EBfQWXGNv/view?usp=sharing)
+[Bug 2](https://drive.google.com/file/d/16D-JFHlAGAtyF19YOHgVr4XVB8aDD3ZU/view?usp=sharing)
+[Bug 3](https://drive.google.com/file/d/1VZecdxwBROMw1RodbyFSLCwvLAO6SP5Y/view?usp=sharing)
 
