@@ -89,5 +89,5 @@ My name is Andrzej Splewiński. I am a graduate of economic studies. I am a soft
 * [Postman project documentation - Hotel](https://documenter.getpostman.com/view/8567940/2s93m1Z4N8)
 
 # Test Scenarios
-[Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx](https://github.com/andrzejsplewinski/andrzejsplewinski/files/12078454/Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx)
+[Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx](https://docs.google.com/spreadsheets/d/1GBRaQ5kMaVj8z_k0qSCSrPvHdFiefn3C/edit?usp=sharing&ouid=111012013375605129694&rtpof=true&sd=true)
 
