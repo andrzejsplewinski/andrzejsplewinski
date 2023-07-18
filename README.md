@@ -1,7 +1,7 @@
 # About me
 My name is Andrzej Splewiński. I am a graduate of economic studies. I am a software testing enthusiast, I completed an internship as a Junior Software Tester at Quality Island. During the internship, I had the opportunity to work under the supervision of experienced testers, learn to use various testing tools and learn about testing processes in practice. The project focused on manual testing, acceptance testing, functional and non-functional testing, and creating test scenarios.
 
-### My tasks in this project included:
+### My tasks in Quality Island project included:
 
 1. Performing manual tests, consisting in manually checking the functionality of the software for compliance with the requirements and expectations of users.
 2. Participation in acceptance tests, which were aimed at checking whether the software meets the client's requirements and is ready for implementation.
@@ -86,4 +86,8 @@ My name is Andrzej Splewiński. I am a graduate of economic studies. I am a soft
 
 * [Star Troper](https://github.com/Rzesiasty/StarTrooper/tree/master) - An arcade game of destroying enemy space ships - game written in Java 8
 * [Postman project documentation - Book Shop](https://documenter.getpostman.com/view/8567940/2s93kz6kLf) 
-* [Postman project documentation - Hotel](https://documenter.getpostman.com/view/8567940/2s93m1Z4N8) 
+* [Postman project documentation - Hotel](https://documenter.getpostman.com/view/8567940/2s93m1Z4N8)
+
+# Test Scenarios
+[Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx](https://github.com/andrzejsplewinski/andrzejsplewinski/files/12078454/Scenariusze_testowe_-_Kursy_produkty_cyfrowe_usugi.xlsx)
+
